@@ -30,7 +30,7 @@ I am committed to lifelong learning, staying updated with industry trends, and e
 If you're interested in technology and software development, let's connect! Feel free to reach out to discuss ideas, collaborate on projects, or share experiences.
 
 * 🌍  I'm based in Alex , EG
-* ✉️  You can contact me at [marwan.elansarey@gmail.com](mailto:marwan.elansarey@gmail.com)
+* ✉️  You can contact me at [marwan.sameh.work@gmail.com](mailto:marwan.sameh.work@gmail.com)
 
 <br>
 <a href="https://www.github.com/marwan-sam" target="_blank" rel="noreferrer"><img
