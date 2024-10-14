@@ -1,3 +1,7 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=6000&pause=1000&color=01C6F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Marwan+" alt="Welcome message for everyone" /></a>
 </div>
